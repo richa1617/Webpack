@@ -1,1 +1,3 @@
-console.log("Hello world")
+const add=require("./other")
+
+console.log(add(5,7))
